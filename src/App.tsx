@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { app } from './config/firebase';
 
 function App() {
   return (
